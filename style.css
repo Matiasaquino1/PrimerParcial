@@ -1,0 +1,67 @@
+*{
+    background-color: black;
+}
+.h4{
+    color: yellow;
+}
+
+
+.header{
+    
+        width: 90%;
+        height: 85vh;
+        margin: 5%;
+        background-image: url("img/star_wars_logo.png");
+        background-position: center; 
+        background-size: cover; 
+        background-repeat: no-repeat;
+        vertical-align: text-bottom;
+        
+}
+.logo span{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    justify-content: center;
+    text-align: center;
+    color: yellow;
+}
+.body1{
+	width: 100%;
+}
+.galeria{
+	display: flex;
+	margin-top: 65px;
+}
+.item{
+	text-align: center;
+
+
+}
+.item img{
+	width: 100%;
+
+
+}
+.item h1{
+	text-transform: uppercase;
+	font-family: 'Bebas Neue', cursive;
+	color: yellow;
+	font-size: 16.67 px;
+	font-weight: 400;
+	letter-spacing: 0.5px;
+	margin-bottom: 20px;
+
+}
+.item p{
+	font-family: 'Time new roman', sans-serif;
+	color: #f6ff00;
+	font-size: 37.5 px;
+	font-weight: 400;
+	line-height: 22px;
+	margin-bottom: 35px;
+}
+
+	
+
+
